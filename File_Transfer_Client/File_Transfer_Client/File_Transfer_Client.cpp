@@ -8,6 +8,7 @@
 #include <iostream>
 #include <string>
 #include "Window.h"
+#include <GL\glew.h>
 
 int main()
 {
